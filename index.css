@@ -38,3 +38,7 @@ header {
   display: flex;
 }
 
+.main-header li {
+  margin-left: 1.25rem;
+  font-weight: 400;
+}
