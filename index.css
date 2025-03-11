@@ -14,17 +14,18 @@ header {
   align-items: center;
   color: #fff;
   height: 7.5rem;
-  background-color: rgba(49, 27, 146, .8);
+  background-color: rgba(229, 9, 20, .6);
 }
 
 .main-header h2 {
   font-size: 3rem;
+  color: #fff;
 }
 
 
 /*? ==== The a-links in header ====*/
 .main-header a {
-  transition: all 0.5s ease-out;
+  transition: all 1.7s ease-out;
   color: #FFF;
   text-decoration: none;
   font-size: 1.5rem;
@@ -32,13 +33,17 @@ header {
 }
 
 
+body {
+  background-color: rgba(0, 0, 0);
+}
+
 
 
 /*? ==== Hover effect on links header ====*/
 .main-header a:hover {
   display: block;
   color: #c5c8e9;
-  transform: rotate(5deg);
+  transform: rotate(30deg);
 }
 
 
