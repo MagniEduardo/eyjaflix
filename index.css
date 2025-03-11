@@ -14,16 +14,25 @@ header {
   align-items: center;
   color: #fff;
   height: 7.5rem;
-  background-color: rgba(41, 24, 114, .4);
+  background-color: rgba(49, 27, 146, .8);
 }
+
+.main-header h2 {
+  font-size: 3rem;
+}
+
 
 /*? ==== The a-links in header ====*/
 .main-header a {
   transition: all 0.5s ease-out;
   color: #FFF;
   text-decoration: none;
+  font-size: 1.5rem;
 
 }
+
+
+
 
 /*? ==== Hover effect on links header ====*/
 .main-header a:hover {
