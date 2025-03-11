@@ -1,3 +1,4 @@
+/** Reset Css **/
 *,
 *::before,
 *::after {
@@ -14,39 +15,44 @@ header {
   align-items: center;
   color: #fff;
   height: 7.5rem;
-  background-color: rgba(229, 9, 20, .6);
+  background-color: rgba(229, 9, 20, 0.6);
 }
 
+/*? HeadingTwo / Logo */
 .main-header h2 {
   font-size: 3rem;
   color: #fff;
   text-transform: uppercase;
 }
 
-
 /*? ==== The a-links in header ====*/
 .main-header a {
-  transition: all 1.7s ease-out;
-  color: #FFF;
+  transition: all 0.8s ease-out;
+  color: #fff;
   text-decoration: none;
   font-size: 1.5rem;
-
 }
 
 /*? ==== Hover effect on links header ====*/
 .main-header a:hover {
   display: block;
   color: #c5c8e9;
-  transform: rotate(30deg);
+  transform: rotate(7.2deg);
 }
 
-
+/*? ==== Unordered List ====*/
 .main-header ul {
   list-style: none;
   display: flex;
 }
 
 .main-header li {
-  margin-left: 1.25rem;
+  margin-left: 1.4rem;
   font-weight: 400;
+}
+
+
+/* hero */
+.main-hero-inner{
+  width: 100%;
 }
