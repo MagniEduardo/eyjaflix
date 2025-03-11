@@ -6,6 +6,35 @@
   box-sizing: border-box;
 }
 
+/*? ==== The Header ==== */
 header {
-  background-color: rgba(41, 24, 114, .6);
+  display: flex;
+  justify-content: space-between;
+  padding: 0 2.8125rem 0 2.8125rem;
+  align-items: center;
+  color: #fff;
+  height: 7.5rem;
+  background-color: rgba(41, 24, 114, .4);
 }
+
+/*? ==== The a-links in header ====*/
+.main-header a {
+  transition: all 0.5s ease-out;
+  color: #FFF;
+  text-decoration: none;
+
+}
+
+/*? ==== Hover effect on links header ====*/
+.main-header a:hover {
+  display: block;
+  color: #c5c8e9;
+  transform: rotate(5deg);
+}
+
+
+.main-header ul {
+  list-style: none;
+  display: flex;
+}
+
