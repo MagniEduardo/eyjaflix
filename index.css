@@ -51,3 +51,9 @@ header {
   margin-left: 1.25rem;
   font-weight: 400;
 }
+
+h1 {
+  color: rgba(0, 128, 0, .7);
+  text-align: ´center;
+  font-size: 3rem;
+}
