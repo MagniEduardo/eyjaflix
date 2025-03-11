@@ -20,6 +20,7 @@ header {
 .main-header h2 {
   font-size: 3rem;
   color: #fff;
+  text-transform: uppercase;
 }
 
 
@@ -31,13 +32,6 @@ header {
   font-size: 1.5rem;
 
 }
-
-
-body {
-  background-color: rgba(0, 0, 0);
-}
-
-
 
 /*? ==== Hover effect on links header ====*/
 .main-header a:hover {
@@ -55,10 +49,4 @@ body {
 .main-header li {
   margin-left: 1.25rem;
   font-weight: 400;
-}
-
-h1 {
-  color: rgba(0, 128, 0, .7);
-  text-align: ´center;
-  font-size: 3rem;
 }
