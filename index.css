@@ -52,7 +52,7 @@ header {
 }
 
 
-/* hero */
-.main-hero-inner{
+/*?==== HeroImage Settings ====*/
+.main-hero-inner img{
   width: 100%;
 }
