@@ -1,0 +1,18 @@
+How many pixels are there in a centimeter?
+Assuming the pixel density is 96 dpi, there are 96 pixels per inch. We know that 1 inch is equal to 2.54 cm. So there are 96 pixels per 2.54 cm. Than 1 centimeter = (96 / 2.54) px. Therefore, there are 38 pixels in one centimeter.
+
+How to calculate centimeter to pixel
+dpi is the pixel density or dots per inch.
+96 dpi means there are 96 pixels per inch.
+1 inch is equal to 2.54 centimeters.
+
+1 inch = 2.54 cm
+dpi = 96 px / in
+96 px / 2.54 cm
+
+Therefore one centimeter is equal to
+1 cm = 96 px / 2.54
+1 cm = 37.79527559055118 px
+
+If we round the pixel value, we get
+1 cm = 38 px for 96 dpi.
