@@ -59,7 +59,7 @@ header {
 }
 
 .main-hero h1 {
-  color: blue;
+  color: rgba(21, 31, 59, 1);
   margin-top: 120px;
   text-align: center;
   text-transform: uppercase;
